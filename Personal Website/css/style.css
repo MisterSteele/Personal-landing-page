@@ -1,0 +1,53 @@
+body{
+  background-image: url(https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80);
+  padding-bottom: 200px;
+}
+
+img{
+   border: 10px groove black;
+   border-radius: 50%;
+}
+
+h1{
+color: white;
+font-size: 22px;
+font-family: monospace;
+}
+
+h2{
+  color: white;
+  font-size: 18px;
+  font-family: monospace;
+}
+
+ul{
+  color: white;
+  list-style-type: square;
+}
+
+li{
+font-size: 15px;
+font-family: monospace;
+}
+
+p{
+  color: white;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.container{
+  width: 90px; /* Set a specific width */
+  background-color: #555; /* Dark-grey background */
+  position: absolute;
+  top: 30px;
+  right: 200px;
+  text-align: right;
+  font-size: 20px;
+}
+
+.bitcoin{
+  color: orange;
+  font-size: 20px;
+  display: flex;
+}
